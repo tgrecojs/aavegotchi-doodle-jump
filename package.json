@@ -1,0 +1,17 @@
+{
+  "name": "doodle-jump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./source -c -1 --port 2020"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autodux": "^5.0.3",
+    "riteway": "^6.2.1",
+    "ses": "^0.13.4"
+  }
+}
